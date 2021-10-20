@@ -1,0 +1,9 @@
+.banner-area{
+position: relative;
+    
+}
+.banner-text{
+    position: absolute;
+    right: 30%;
+  bottom: 40%;
+}

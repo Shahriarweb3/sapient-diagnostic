@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "testName": "Complete Blood Count (CBC)",
+        "description": "A complete blood count, also known as a full blood count, is a set of medical laboratory tests that provide information about the cells in a persons blood.",
+        "cost": 1000,
+        "img": "https://labs.selfdecode.com/app/uploads/2019/12/bigstock-134939249-min-1.jpg"
+    },
+    {
+        "id": 2,
+        "testName": "Lipid Profile (Fasting)",
+        "description": "A complete cholesterol test — also called a lipid panel or lipid profile — is a blood test that can measure the amount of cholesterol and triglycerides in your blood",
+        "cost": 1500,
+        "img": "https://factdr.com/wp-content/uploads/2019/09/lipid-profile.png"
+    },
+    {
+        "id": 3,
+        "testName": "Serum Bilirubin (Total)",
+        "description": "Normal results for a total bilirubin test are 1.2 milligrams per deciliter (mg/dL) for adults and usually 1 mg/dL for those under 18. Normal results for direct.",
+        "cost": 1200,
+        "img": "https://labpedia.net/wp-content/uploads/2020/01/Bilirubin-stage-3.jpg"
+    },
+    {
+        "id": 4,
+        "testName": "Serum Uric Acid",
+        "description": "A uric acid blood test, also known as a serum uric acid measurement, determines how much uric acid is present in your blood. The test can help determine.",
+        "cost": 1600,
+        "img": "https://pubmiddleware.mims.com/resource/image/91DAAF85-FFEE-4D57-A8DB-A63C012EC72F/OriginalThumbnail/THUMBNAIL_Fotolia_110090750_Subscription_Monthly_M.jpg"
+    },
+    {
+        "id": 5,
+        "testName": "ECG",
+        "description": "An electrocardiogram (ECG or EKG) records the electrical signal from your heart to check for different heart conditions. Electrodes are placed on your chest to record.",
+        "cost": 2600,
+        "img": "https://www.theengineeringprojects.com/wp-content/uploads/2017/08/Introduction-to-ECG_3-2.jpg"
+    },
+    {
+        "id": 6,
+        "testName": "Ultrasonography",
+        "description": "A procedure that uses high-energy sound waves to look at tissues and organs inside the body. The sound waves make echoes that form pictures of the tissues.",
+        "cost": 2600,
+        "img": "https://glades.brog.com/wp-content/uploads/sites/3/2017/01/ultrasonography.png"
+    }
+]

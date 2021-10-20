@@ -1,0 +1,11 @@
+.doctor-container{
+    display: grid;
+    grid-template-columns: repeat(5, 1fr);
+
+}
+.doctor-image{
+    width: 150px;
+    height:150px;
+    border-radius: 100px;
+ 
+}
